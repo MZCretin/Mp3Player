@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/*
+
+.idea/artifacts/
+.idea/compiler.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+out/artifacts/cretin_jar/cretin.jar
+out/artifacts/cretin_jar/cretin的副本.zip
+out/artifacts/cretin_jar/cretin的副本/
+src/test/
+target/
