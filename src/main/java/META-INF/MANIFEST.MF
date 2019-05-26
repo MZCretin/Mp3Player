@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: okhttp-3.5.0.jar jmf-2.1.1e.jar slf4j-api-1.7.22.jar mzlio
+ n-core-1.0.0-Final.jar jlayer-1.0.1.jar gson-2.8.0.jar okio-1.11.0.ja
+ r fastjson-1.2.58.jar easy-okhttp-1.0.0-Final.jar
+Main-Class: com.roll.widget.MainFrame
+
